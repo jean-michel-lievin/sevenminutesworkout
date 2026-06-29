@@ -3,7 +3,7 @@
       "title":"Full Body Workout",
       "description":"A complete workout targeting all major muscle groups.",
       "level": "Beginner",
-      "imageUrl": "https://sevenminutesworkout.wesy.fr/images/workout1.png",
+      "imageUrl": "https://sevenminutesworkout.wesy.fr/images/workout1.webp",
       "bgColor": "#D6EBEB",
       "exercises":[
          {
@@ -49,7 +49,7 @@
       "title":"Express Cardio Workout",
       "description":"A quick cardio workout to get your heart pumping.",
       "level": "Intermediate",
-      "imageUrl": "https://sevenminutesworkout.wesy.fr/images/workout5.png",
+      "imageUrl": "https://sevenminutesworkout.wesy.fr/images/workout5.webp",
       "bgColor": "#ECDEFC",
       "exercises":[
          {
@@ -95,7 +95,7 @@
       "title":"Intense Strength Training",
       "description":"An intense workout focusing on building strength and endurance.",
       "level": "Advanced",
-      "imageUrl": "https://sevenminutesworkout.wesy.fr/images/workout6.png",
+      "imageUrl": "https://sevenminutesworkout.wesy.fr/images/workout6.webp",
       "bgColor": "#E7FBBC",
       "exercises":[
          {
@@ -133,6 +133,52 @@
             "description":"Lie on your back with knees bent and feet flat on the floor. Place one hand behind your head and bring opposite elbow towards opposite knee while engaging core muscles. Repeat on the other side.",
             "duration":60,
             "imageUrl": "https://sevenminutesworkout.wesy.fr/images/oblique-crunches.webp"
+         }
+      ]
+   }
+,
+   {
+      "title":"Stretching & Flexibility",
+      "description":"A relaxing session to improve flexibility and aid muscle recovery after your workout.",
+      "level": "All",
+      "imageUrl": "https://sevenminutesworkout.wesy.fr/images/workout4.webp",
+      "bgColor": "#FFF9C4",
+      "exercises":[
+         {
+            "title":"Neck Stretch",
+            "description":"Gently tilt your head towards one shoulder, then the other. Hold each side to feel the stretch in your neck.",
+            "duration":60,
+            "imageUrl": "https://sevenminutesworkout.wesy.fr/images/neck-stretch.webp"
+         },
+         {
+            "title":"Shoulder Stretch",
+            "description":"Bring one arm across your chest and use your other arm to gently pull it closer. Switch arms halfway.",
+            "duration":60,
+            "imageUrl": "https://sevenminutesworkout.wesy.fr/images/shoulder-stretch.webp"
+         },
+         {
+            "title":"Hamstring Stretch",
+            "description":"Sit on the floor with both legs extended straight in front of you. Hinge forward from the hips and reach toward your toes while keeping your back as long as possible. Hold the stretch and breathe steadily.",
+            "duration":60,
+            "imageUrl": "https://sevenminutesworkout.wesy.fr/images/hamstring-stretch.webp"
+         },
+         {
+            "title":"Child's Pose",
+            "description":"Kneel on the floor, sit on your heels, and lean forward with arms extended to rest your forehead on the floor.",
+            "duration":60,
+            "imageUrl": "https://sevenminutesworkout.wesy.fr/images/childs-pose.webp"
+         },
+         {
+            "title":"Cat-Cow Stretch",
+            "description":"On all fours, alternate between arching your back towards the ceiling and dropping your belly towards the floor.",
+            "duration":60,
+            "imageUrl": "https://sevenminutesworkout.wesy.fr/images/cat-cow.webp"
+         },
+         {
+            "title":"Cobra Stretch",
+            "description":"Lie face down, place hands under shoulders, and push up to lift your chest while keeping hips on the floor.",
+            "duration":60,
+            "imageUrl": "https://sevenminutesworkout.wesy.fr/images/cobra-stretch.webp"
          }
       ]
    }
