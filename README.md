@@ -25,7 +25,7 @@ Welcome to the **7-Minute Workout App**! This app is designed to offer users a q
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/tabodino/sevenminutesworkout.git
+   git clone https://github.com/jean-michel-lievin/sevenminutesworkout.git
    cd sevenminutesworkout
 
     Open in Android Studio
